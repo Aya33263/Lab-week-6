@@ -1,4 +1,6 @@
 #library system using OOP in python
+by Aya Alzwghaibi
+
 # --- STEP 1: Define the classes ---
 
 # Represents an individual book in the system
@@ -40,6 +42,7 @@ class Library:
             if book.title.lower() == title.lower() and book.is_available:
                 book.is_available = False  # Change status to unavailable
                 member.borrowed_books.append(book)  # Add book to member's list
+                # This only runs if the loop finishes without finding the book
                 print(f"\nSuccess: You have borrowed '{book.title}'.")
                 return
         print(f"Error: '{title}' is not available.")
