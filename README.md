@@ -1,4 +1,5 @@
 Here i write 2 code by using  " Python OOP " 
+
 🏦 Banking Management System (Python OOP)
 A robust, console-based banking application designed to demonstrate the core principles of Object-Oriented Programming (OOP). This project simulates essential banking operations, including account initialization, secure deposits, and validated withdrawals.
 
@@ -110,11 +111,6 @@ Validation: Ensures a book exists and is available before allowing a borrow.
 State Management: Updates the status of books globally when they are checked out or returned.
 
 🚀 How to Run the Program
-Clone the Repository:
-
-Bash
-git clone https://github.com/yourusername/library-system.git
-Execute the Script:
 
 Bash
 python library_system.py
