@@ -1,4 +1,4 @@
-# Here i write 2 code by using  " Python OOP " 
+# Here I write 2 code by using  " Python OOP " 
 
 # 🏦 Banking Management System (Python OOP)
 A robust, console-based banking application designed to demonstrate the core principles of Object-Oriented Programming (OOP). This project simulates essential banking operations, including account initialization, secure deposits, and validated withdrawals.
